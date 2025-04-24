@@ -1,4 +1,4 @@
-<h3>🔐 Password Generator</h3> | HTML + CSS + JavaScript
+<h1>🔐 Password Generator</h1> | HTML + CSS + JavaScript
 Welcome to your go-to Password Generator – a sleek, responsive tool built with HTML, CSS, and JavaScript that creates strong, secure passwords in a single click!
 
 ✨ Features
